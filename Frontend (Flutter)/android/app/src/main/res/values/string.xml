@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Kharcha Saathi</string>
+<string name="facebook_app_id">993498124965331</string>
+<string name="fb_login_protocol_scheme">fb993498124965331</string>
+<string name="facebook_client_token">9399d98bdc62b9b72dfc0b3f0d417ae7</string>
+
+
+</resources>

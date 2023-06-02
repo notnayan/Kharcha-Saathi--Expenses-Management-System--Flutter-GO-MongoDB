@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902409609892",
+    "project_id": "kharcha-saathi",
+    "storage_bucket": "kharcha-saathi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902409609892:android:73d7b4a511e81807a33c31",
+        "android_client_info": {
+          "package_name": "com.example.kharcha_saathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902409609892-ujcdgh5uu91iiqg286sabl6gh0o04qrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDefpW7JNgBhUMDG1Hk4WHo2fWJ-qozXb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902409609892-ujcdgh5uu91iiqg286sabl6gh0o04qrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
